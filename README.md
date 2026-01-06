@@ -12,22 +12,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com
-      ?font=San+Francisco
-      &weight=500
-      &size=25
-      &duration=3000
-      &pause=1000
-      &color=FF5F19
-      &center=true
-      &vCenter=true
-      &multiline=true
-      &width=540
-      &height=100
-      &lines=Senior+Engineering+Manager;iOS+%7C+SwiftUI+%7C+AI;MLX+%7C+LLMs+%7C+Automation"
-      alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=San+Francisco&weight=500&size=25&duration=3000&pause=1000&color=FF5F19&center=true&vCenter=true&multiline=true&width=540&height=100&lines=Senior+Engineering+Manager;iOS+%7C+SwiftUI+%7C+AI;MLX+%7C+LLMs+%7C+Automation"
+      alt="Typing SVG"
+    />
   </a>
 </p>
+
 
 ---
 
@@ -64,8 +55,7 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YahiaMosaad&show_icons=true&layout=compact&theme=radical" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiamosaad&layout=compact&show_icons=true&theme=radical" />
 <br><br>
 
 <a href="https://komarev.com/ghpvc/?username=YahiaMosaad&style=for-the-badge">

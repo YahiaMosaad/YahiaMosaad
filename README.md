@@ -55,7 +55,14 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiamosaad&layout=compact&show_icons=true&theme=radical" />
+
+## 📊 Engineering Focus
+- iOS platform ownership & long-term architecture
+- AI / LLM-powered mobile experiences
+- On-device intelligence using MLX
+- Scalable CI/CD, automation, and delivery excellence
+- Mentorship, technical strategy, and cross-team leadership
+
 <br><br>
 
 <a href="https://komarev.com/ghpvc/?username=YahiaMosaad&style=for-the-badge">
